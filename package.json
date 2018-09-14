@@ -1,0 +1,14 @@
+{
+  "name": "password-guessing-game",
+  "version": "1.0.0",
+  "description": "Simple game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matej Musap",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
